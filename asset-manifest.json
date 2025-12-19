@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/job-recommender-frontend/static/css/main.8634d2d8.css",
-    "main.js": "/job-recommender-frontend/static/js/main.93ca5ce7.js",
-    "index.html": "/job-recommender-frontend/index.html",
-    "main.8634d2d8.css.map": "/job-recommender-frontend/static/css/main.8634d2d8.css.map",
-    "main.93ca5ce7.js.map": "/job-recommender-frontend/static/js/main.93ca5ce7.js.map"
+    "main.css": "/CareerSync/static/css/main.8634d2d8.css",
+    "main.js": "/CareerSync/static/js/main.054f5c38.js",
+    "index.html": "/CareerSync/index.html",
+    "main.8634d2d8.css.map": "/CareerSync/static/css/main.8634d2d8.css.map",
+    "main.054f5c38.js.map": "/CareerSync/static/js/main.054f5c38.js.map"
   },
   "entrypoints": [
     "static/css/main.8634d2d8.css",
-    "static/js/main.93ca5ce7.js"
+    "static/js/main.054f5c38.js"
   ]
 }
